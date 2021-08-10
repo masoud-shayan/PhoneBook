@@ -1,0 +1,15 @@
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net5.0\PhoneBook.Infrastructure.deps.json
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net5.0\PhoneBook.Infrastructure.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net5.0\ref\PhoneBook.Infrastructure.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net5.0\PhoneBook.Infrastructure.pdb
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net5.0\PhoneBook.Domain.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net5.0\PhoneBook.Domain.pdb
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.AssemblyInfo.cs
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.csproj.CopyComplete
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\ref\PhoneBook.Infrastructure.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net5.0\PhoneBook.Infrastructure.pdb

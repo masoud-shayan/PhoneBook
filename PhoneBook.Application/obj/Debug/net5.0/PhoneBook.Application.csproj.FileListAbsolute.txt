@@ -1,0 +1,17 @@
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Application.deps.json
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Application.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\ref\PhoneBook.Application.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Application.pdb
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Domain.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Infrastructure.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Domain.pdb
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\bin\Debug\net5.0\PhoneBook.Infrastructure.pdb
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.csprojAssemblyReference.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.AssemblyInfoInputs.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.AssemblyInfo.cs
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.csproj.CopyComplete
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\ref\PhoneBook.Application.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Application\obj\Debug\net5.0\PhoneBook.Application.pdb

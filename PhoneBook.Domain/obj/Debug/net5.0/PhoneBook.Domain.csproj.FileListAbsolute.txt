@@ -1,0 +1,12 @@
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\bin\Debug\net5.0\PhoneBook.Domain.deps.json
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\bin\Debug\net5.0\PhoneBook.Domain.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\bin\Debug\net5.0\ref\PhoneBook.Domain.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\bin\Debug\net5.0\PhoneBook.Domain.pdb
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.csprojAssemblyReference.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.AssemblyInfoInputs.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.AssemblyInfo.cs
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\ref\PhoneBook.Domain.dll
+C:\Users\Masoud\Desktop\Microservice Project\PhoneBook\PhoneBook.Domain\obj\Debug\net5.0\PhoneBook.Domain.pdb

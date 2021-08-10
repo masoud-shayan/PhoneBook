@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixUjBDDSvrUjbVEw4gITRIdg9enfNk2MSKF4XMNiMGVfoCEUWRft5oM2WPT9MhwKEFCpuuemIDwXgm4TJ8DKFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Masoud\\Desktop\\Microservice Project\\PhoneBook\\PhoneBook.Application\\PhoneBook.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masoud\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\mediatr.extensions.autofac.dependencyinjection\\7.3.0\\mediatr.extensions.autofac.dependencyinjection.7.3.0.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
